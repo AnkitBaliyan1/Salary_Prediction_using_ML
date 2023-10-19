@@ -24,6 +24,6 @@ predicted_salary = model.predict(user_input)
 
 
 # Displaying the preidcted output
-st.write(name + 's Predicted Salary(LPA):',predicted_salary[0])
+st.write(name + "'s Predicted Salary(LPA):",predicted_salary[0])
 
 
